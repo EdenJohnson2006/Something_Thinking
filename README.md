@@ -6,4 +6,4 @@ Tip: If you see this repo on the "Explore repositories" on the right side of the
 
 If you click on any .md file in it, you will be confused xD
 
-The content here needs to be matched with my own experience in order to know a little bit, so don’t try to read any content before you know me :p
+The content here needs to be understood enough for me to understand, so don’t try to read any content before you know me :p
