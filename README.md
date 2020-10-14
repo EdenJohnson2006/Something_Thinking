@@ -7,6 +7,7 @@ Tip: If you see this repo on the "Explore repositories" on the right side of the
 If you click on any .md file in it, you will be confused xD
 
 The content here needs to be understood enough for me to understand, so don’t try to read any content before you know me :p
+<<<<<<< HEAD
 
 其实在建立这个Repo的时候也不知道如何形容的说。
 
@@ -15,3 +16,5 @@ The content here needs to be understood enough for me to understand, so don’t 
 这里只是我记录想法的地方的说。
 
 建议从Begins.md开始看，然后结合我的酷安动态理解。
+=======
+>>>>>>> fb962283b43c80519b2588952bc2bf3c58238a21
